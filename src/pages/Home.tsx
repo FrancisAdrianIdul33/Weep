@@ -17,7 +17,7 @@ const Home: React.FC = () => {
             <IonHeader>
                 <IonToolbar className="custom-header">
                     <IonTitle className="header-title">Weep</IonTitle>
-                    <IonSearchbar className="search-bar" animated={true} placeholder=""></IonSearchbar>
+                  <IonSearchbar className="search-bar"></IonSearchbar>
                 </IonToolbar>
             </IonHeader>
             <IonContent fullscreen>
