@@ -1,0 +1,26 @@
+.custom-header {
+  --background: linear-gradient(90deg, #006400, #32cd32); /* dark green → light green */
+  --color: white; /* text color */
+    text-align: left;
+}
+
+.header-title {
+text-align: left;
+margin-top: 15px;
+position: fixed;
+
+}
+
+.search-bar {
+  width: 300px; /* adjust width as needed */
+  margin-left: auto; /* push it to the right */
+  margin-right: 30px;
+  margin-bottom: 10px;
+   margin-top: 10px;
+
+}
+
+ion-title {
+  font-weight: bold;
+  
+}
