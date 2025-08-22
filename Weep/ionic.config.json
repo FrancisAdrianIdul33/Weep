@@ -1,0 +1,7 @@
+{
+  "name": "Weep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
