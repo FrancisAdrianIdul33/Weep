@@ -16,13 +16,11 @@ const Home: React.FC = () => {
         <IonPage>
             <IonHeader>
                 <IonToolbar className="custom-header">
-                    <IonTitle className="header-title">Weep</IonTitle>
+                    <IonTitle> Weep Project</IonTitle>
                   <IonSearchbar className="search-bar"></IonSearchbar>
                 </IonToolbar>
             </IonHeader>
             <IonContent fullscreen>
-
-
             </IonContent>
         </IonPage>
     );
